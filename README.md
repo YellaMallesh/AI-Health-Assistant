@@ -3,6 +3,7 @@ To Run the application in your local machine Follow the following steps:
 1.SETUP
 Create the virtual environment:
   python -m venv env
+
   
 Activate the virtual environment:
   On Windows:
